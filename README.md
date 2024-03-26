@@ -3,7 +3,7 @@
 <h2>👨‍💻 Frontend Development Projects:</h2>
 
 - <b>HTML & CSS projects</b>
-  - [Praciting Front-end](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Front-end](https://github.com/Lauren-Barrette/PopeyeTrubitePage)
 
 <h2> 🤳 Connect with me:</h2>
 
