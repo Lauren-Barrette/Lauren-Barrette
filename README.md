@@ -5,6 +5,8 @@
 - <b>HTML & CSS projects</b>
   - [Popeye Tribute Page](https://github.com/Lauren-Barrette/PopeyeTrubitePage)
   - [Survey Form](https://github.com/Lauren-Barrette/Survey-Form)
+  - [Nutrition Label](https://github.com/Lauren-Barrette/Nutrition-Label)
+  - [Flexbox Cat Pics](https://github.com/Lauren-Barrette/Flexbox-Cat-Images)
 
 <h2> 🤳 Connect with me:</h2>
 
