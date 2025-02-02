@@ -8,6 +8,9 @@
   - [Nutrition Label](https://github.com/Lauren-Barrette/Nutrition-Label)
   - [Flexbox Cat Pics](https://github.com/Lauren-Barrette/Flexbox-Cat-Images)
 
+- <b>C++ projects</b>
+  - [Pennies for pay program](https://github.com/Lauren-Barrette/Pennies-for-pay-program/tree/main)
+
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
