@@ -11,7 +11,6 @@
 - <b>C++ projects</b>
   - [Pennies for pay program](https://github.com/Lauren-Barrette/Pennies-for-pay-program/tree/main)
 
-<h2> Connect with me:</h2>
 
 
 
