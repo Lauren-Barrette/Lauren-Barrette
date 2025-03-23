@@ -1,4 +1,4 @@
-<h1>Hello, I'm Ren! <br/><a href="https://github.com/Lauren-Barrette">Computer Science student</a>, <a href="https://laurenbarrette.my.canva.site/">Digital illustrator</a> and <a href="https://devforum.roblox.com/t/misspyro-portfolio/748465">3D Modeler</a> </h1>
+<h1>Hello, I'm Ren! <br/><a href="https://github.com/Lauren-Barrette">Computer Science student</a>, <a href="https://neocities.org/site/misspyrothemaniac">Digital illustrator</a> and <a href="https://devforum.roblox.com/t/misspyro-portfolio/748465">3D Modeler</a> </h1>
 
 <h2> Computer Science Projects:</h2>
 
